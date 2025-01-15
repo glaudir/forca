@@ -1,8 +1,8 @@
-Jogo da forca feito em C para estudo da linnguagem;
-Conhecimentos adquiridos:
+Jogo da forca feito em C para estudo da linnguagem; <br/>
+Conhecimentos adquiridos: <br/><br/>
 
-- Funções;
-- Ponteiros;
-- Ler e escrever em arquivos;
-- Arrays;
+- Funções;<br/>
+- Ponteiros;<br/>
+- Ler e escrever em arquivos;<br/>
+- Arrays;<br/>
 - Números binários;
